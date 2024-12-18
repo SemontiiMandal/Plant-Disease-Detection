@@ -38,7 +38,7 @@ This dataset contains images of plant leaves affected by various diseases. Each 
    - The training and validation accuracy/loss are plotted to visualize the model’s learning process.
 
 **Key Results**
-- The model achieved high classification accuracy during training, demonstrating its potential in detecting plant diseases from images.
+- The model achieved high classification accuracy (>96.5%) , demonstrating its potential in detecting plant diseases from images.
 - The loss and accuracy graphs show the model’s performance over the epochs, helping monitor training effectiveness.
 
 **Future Improvements**
