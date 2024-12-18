@@ -46,6 +46,3 @@ This dataset contains images of plant leaves affected by various diseases. Each 
 2. **Improve Model Architecture:** Experiment with more complex architectures or fine-tune other pre-trained models like InceptionV3 or EfficientNet.
 3. **Real-time Deployment:** Develop an application or API for real-time disease detection from plant images.
 4. **Feature Visualization:** Incorporate techniques like Grad-CAM for model interpretability, helping understand which parts of the image influence predictions.
-
-#### File Structure
-
