@@ -18,9 +18,8 @@ The Plant Disease Detection project uses deep learning to identify plant disease
 - OpenCV and Pillow: For image manipulation.
 
 **Dataset**
-Source: New Plant Diseases Dataset (Augmented)
-
 This dataset contains images of plant leaves affected by various diseases. Each class corresponds to a particular plant species or disease. The dataset is split into training and validation sets.
+Source: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data _(Credit: Kaggle)_
 
 **Methodology**
 1. **Data Preprocessing:**
